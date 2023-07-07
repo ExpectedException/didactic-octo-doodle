@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Scem_pc3\\Downloads\\SteamDesktopAuthenticator-main\\SteamDesktopAuthenticator-main\\lib\\SteamAuth\\SteamAuth.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Scem_pc3\\Downloads\\SteamDesktopAuthenticator-main\\SteamDesktopAuthenticator-main\\lib\\SteamAuth\\SteamAuth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Scem_pc3\\Downloads\\SteamDesktopAuthenticator-main\\SteamDesktopAuthenticator-main\\lib\\SteamAuth\\SteamAuth.csproj",
+        "projectName": "SteamAuth",
+        "projectPath": "C:\\Users\\Scem_pc3\\Downloads\\SteamDesktopAuthenticator-main\\SteamDesktopAuthenticator-main\\lib\\SteamAuth\\SteamAuth.csproj",
+        "packagesPath": "C:\\Users\\Scem_pc3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Scem_pc3\\Downloads\\SteamDesktopAuthenticator-main\\SteamDesktopAuthenticator-main\\lib\\SteamAuth\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\Scem_pc3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "targetAlias": "net452",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

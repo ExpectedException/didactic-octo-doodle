@@ -1,0 +1,38 @@
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\Steam Desktop Authenticator.exe.config
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\Steam Desktop Authenticator.exe
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\Steam Desktop Authenticator.pdb
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\CommandLine.dll
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\MailKit.dll
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\MimeKit.dll
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\SteamAuth.dll
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\System.Buffers.dll
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\SteamAuth.pdb
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\CommandLine.xml
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\MailKit.pdb
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\MailKit.xml
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\MimeKit.pdb
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\MimeKit.xml
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\bin\x64\Debug\System.Buffers.xml
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam Desktop Authenticator.csproj.AssemblyReference.cache
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam Desktop Authenticator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam_Desktop_Authenticator.CaptchaForm.resources
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam_Desktop_Authenticator.ConfirmationForm.resources
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam_Desktop_Authenticator.ImportAccountForm.resources
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam_Desktop_Authenticator.InputForm.resources
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam_Desktop_Authenticator.InstallRedistribForm.resources
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam_Desktop_Authenticator.ListInputForm.resources
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam_Desktop_Authenticator.LoginForm.resources
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam_Desktop_Authenticator.MainForm.resources
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam_Desktop_Authenticator.PhoneExtractForm.resources
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam_Desktop_Authenticator.SettingsForm.resources
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam_Desktop_Authenticator.TradePopupForm.resources
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam_Desktop_Authenticator.WelcomeForm.resources
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam Desktop Authenticator.csproj.GenerateResource.cache
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam Desktop Authenticator.csproj.CoreCompileInputs.cache
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam Desktop Authenticator.csproj.CopyComplete
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam Desktop Authenticator.exe
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\Steam Desktop Authenticator\obj\x64\Debug\Steam Desktop Authenticator.pdb

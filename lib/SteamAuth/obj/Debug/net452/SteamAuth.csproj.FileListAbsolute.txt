@@ -1,0 +1,11 @@
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\lib\SteamAuth\bin\Debug\net452\SteamAuth.dll
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\lib\SteamAuth\bin\Debug\net452\SteamAuth.pdb
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\lib\SteamAuth\bin\Debug\net452\Newtonsoft.Json.dll
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\lib\SteamAuth\obj\Debug\net452\SteamAuth.csproj.AssemblyReference.cache
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\lib\SteamAuth\obj\Debug\net452\SteamAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\lib\SteamAuth\obj\Debug\net452\SteamAuth.AssemblyInfoInputs.cache
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\lib\SteamAuth\obj\Debug\net452\SteamAuth.AssemblyInfo.cs
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\lib\SteamAuth\obj\Debug\net452\SteamAuth.csproj.CoreCompileInputs.cache
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\lib\SteamAuth\obj\Debug\net452\SteamAuth.csproj.CopyComplete
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\lib\SteamAuth\obj\Debug\net452\SteamAuth.dll
+C:\Users\Scem_pc3\Downloads\SteamDesktopAuthenticator-main\SteamDesktopAuthenticator-main\lib\SteamAuth\obj\Debug\net452\SteamAuth.pdb
